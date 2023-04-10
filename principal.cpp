@@ -1,9 +1,10 @@
 #include <iostream>
+#include "MisArchivos\\funciones.cpp"
 
 using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    cout << "/Mi Proyecto - Prueba" << endl;
+    cout << "/tMi Proyecto - Prueba" << endl;
     return 0;
 }
